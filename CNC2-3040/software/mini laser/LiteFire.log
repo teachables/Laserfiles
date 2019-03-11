@@ -1,0 +1,102 @@
+Computer Name  : S-PC
+CPU            : GenuineIntel Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz X4
+Memory         : 5.88 GB
+Hard Disk      : APPLE HDD HTS547550A9E384 ATA Device
+OS Version     : Windows 7 Ultimate 
+Computer IDB   : 91053B749102549FDBD1537A11F77F38
+Computer IDN   : 4A7BE7AE7828010F5C8021045B11205D
+
+2016-05-14 00:04:01 >> Open ... COM4 9600
+2016-05-30 11:02:08 >> Open ... COM5 9600
+2016-06-04 17:14:17 >> Open ... COM5 115200
+2016-06-04 17:14:23 >> Open ... COM5 9600
+2016-06-04 17:14:45 >> Open ... COM5 115200
+2016-06-04 17:14:51 >> Open ... COM5 9600
+2016-06-04 17:15:03 >> Open ... COM5 115200
+2016-06-04 17:15:09 >> Open ... COM5 9600
+2016-07-08 10:56:34 >> Open ... COM10 115200
+2016-07-08 10:56:40 >> Open ... COM10 9600
+2016-07-08 10:58:17 >> Open ... COM10 115200
+2016-07-08 10:58:23 >> Open ... COM10 9600
+2016-11-25 10:01:25 >> Open ... COM1 115200
+2016-11-25 10:01:32 >> Open ... COM1 9600
+2016-11-25 10:12:11 >> Open ... COM15 115200
+2016-11-25 10:12:43 >> Open ... COM15 115200
+2016-11-25 10:12:49 >> Open ... COM15 9600
+2016-11-25 10:14:26 >> Open ... COM15 115200
+2016-11-25 10:14:32 >> Open ... COM15 9600
+2016-11-25 10:14:42 >> Open ... COM15 115200
+2016-11-25 10:14:48 >> Open ... COM15 9600
+2016-11-25 10:15:06 >> Open ... COM15 115200
+2016-11-25 10:15:12 >> Open ... COM15 9600
+2016-11-25 10:15:49 >> Open ... COM15 115200
+2016-11-25 10:15:55 >> Open ... COM15 9600
+2016-11-25 18:31:45 >> Open ... COM1 9600
+2016-11-25 18:31:51 >> Open ... COM1 115200
+2016-11-25 18:32:04 >> Open ... COM15 9600
+2016-11-25 23:05:10 >> Open ... COM15 9600
+2016-11-25 23:05:13 >> $0=10 (step pulse, usec)
+$1=25 (step idle delay, msec)
+$2=0 (step port invert mask:00000000)
+$3=4 (dir port invert mask:00000100)
+$4=0 (step enable invert, bool)
+$5=0 (limit pins invert, bool)
+$6=0 (probe pin invert, bool)
+$10=3 (status report mask:00000011)
+$11=0.010 (junction deviation, mm)
+$12=0.002 (arc tolerance, mm)
+$13=0 (report inches, bool)
+$20=0 (soft limits, bool)
+$21=0 (hard limits, bool)
+$22=0 (homing cycle, bool)
+$23=0 (homing dir invert mask:00000000)
+$24=25.000 (homing feed, mm/min)
+$25=500.000 (homing seek, mm/min)
+$26=250 (homing debounce, msec)
+$27=1.000 (homing pull-off, mm)
+$100=400.000 (x, step/mm)
+$101=400.000 (y, step/mm)
+$102=800.000 (z, step/mm)
+$110=800.000 (x max rate, mm/min)
+$111=800.000 (y max rate, mm/min)
+$112=800.000 (z max rate, mm/min)
+$120=10.000 (x accel, mm/sec^2)
+$121=10.000 (y accel, mm/sec^2)
+$122=10.000 (z accel, mm/sec^2)
+$130=400.000 (x max travel, mm)
+$131=400.000 (y max travel, mm)
+$132=200.000 (z max travel, mm)
+ok
+
+2016-11-26 12:00:08 >> $0=10 (step pulse, usec)
+$1=25 (step idle delay, msec)
+$2=0 (step port invert mask:00000000)
+$3=4 (dir port invert mask:00000100)
+$4=0 (step enable invert, bool)
+$5=0 (limit pins invert, bool)
+$6=0 (probe pin invert, bool)
+$10=3 (status report mask:00000011)
+$11=0.010 (junction deviation, mm)
+$12=0.002 (arc tolerance, mm)
+$13=0 (report inches, bool)
+$20=0 (soft limits, bool)
+$21=0 (hard limits, bool)
+$22=0 (homing cycle, bool)
+$23=0 (homing dir invert mask:00000000)
+$24=25.000 (homing feed, mm/min)
+$25=500.000 (homing seek, mm/min)
+$26=250 (homing debounce, msec)
+$27=1.000 (homing pull-off, mm)
+$100=400.000 (x, step/mm)
+$101=400.000 (y, step/mm)
+$102=800.000 (z, step/mm)
+$110=800.000 (x max rate, mm/min)
+$111=800.000 (y max rate, mm/min)
+$112=800.000 (z max rate, mm/min)
+$120=10.000 (x accel, mm/sec^2)
+$121=10.000 (y accel, mm/sec^2)
+$122=10.000 (z accel, mm/sec^2)
+$130=400.000 (x max travel, mm)
+$131=400.000 (y max travel, mm)
+$132=200.000 (z max travel, mm)
+ok
